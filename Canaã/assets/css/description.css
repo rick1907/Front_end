@@ -1,0 +1,25 @@
+.description{
+	height: 425px;
+}
+.imagem__description{
+    left: 620px;
+    position: relative;
+    width: 400px;
+    z-index: 1;
+}
+
+
+.texto__description{
+    bottom: 350px;
+    background-color: #7a0e0e;
+    color: white;
+    height: 300px;
+    left: 200px;
+    position: relative;
+    padding: 3em;
+    text-align: center;
+    width: 370px;
+    z-index: 0;
+}
+
+

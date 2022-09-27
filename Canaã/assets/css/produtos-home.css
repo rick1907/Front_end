@@ -1,0 +1,10 @@
+.produtos{
+	padding: 40%;
+}
+
+.imagem_produto {
+	position: absolute;
+	right: 30px;
+	z-index: 0;
+	width: 50%;
+}
