@@ -1,0 +1,31 @@
+.cabecalho{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menuPrincipal{
+    margin-right: 235px;
+    
+}
+
+.menuPrincipal a{
+    text-decoration: none;
+    font-family: fantasy, 'Courier New', Courier, monospace;
+    font-size: 25px;
+    padding: 20px;
+    color: rgba(169, 35, 17, 0.973);
+    font-weight: bold;
+    
+}
+
+.menuPrincipal a:hover{
+    font-size: 35px;
+
+}
+
+.logotipo{
+    height: 100%;
+    margin-left: 40px;
+}
