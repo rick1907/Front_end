@@ -1,34 +1,25 @@
 
-
-.caixa{
-	position: absolute;
-	padding: 0 50px 0 0;
-	right: 20%;
-	top: 75px ;
+.cabecalho{
+	display: flex;
+	align-items: center;
 }
+
 
 .logo{
 	margin: 20px 0 0 40px;
 	width: 15%;
 }
 
-.menu_principal{
-	position: relative;
-	top: 0;
-	width: 120%;
-}
+.menu{
+	margin-left: 43%;
+	
+}	
 
 .menu_principal a:hover{
 	color: #bd0808;
 	font-size: 30px;
 }
 
-nav{
-	padding: 10px;
-	position: absolute;
-	right: 0;
-	top: 110px;
-}
 
 nav li{
 	display: inline;
@@ -44,11 +35,5 @@ nav a{
 	text-decoration: solid;
 }
 
-ul {
-	display: inline;
-	margin-right: 15%;
-	vertical-align: top;
-	width: 20%;
-}
 
 
