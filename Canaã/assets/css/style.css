@@ -1,0 +1,10 @@
+.corpo{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    display:grid;
+    grid-template-areas: 
+    "cabecalho"
+    "conteudo"
+    "rodape"
+;
+}
+
