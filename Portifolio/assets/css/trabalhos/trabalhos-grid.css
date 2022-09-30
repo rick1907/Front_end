@@ -1,0 +1,9 @@
+.trabalhos_grid{
+    display: grid;
+    height: 70vh;
+    grid-area: "trabalhos";
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+}
+
+

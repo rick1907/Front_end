@@ -1,0 +1,15 @@
+.trabalhos{
+    background-color: #181d48;
+    font-size: 2.5rem;
+    height: 100vh;
+    text-align: center;
+}
+
+.trabalhos h2{
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
