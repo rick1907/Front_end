@@ -1,8 +1,5 @@
 .contato{
+    display: grid;
     height: 100vh;
 }
 
-.contato h3{
-    font-size: 2rem;
-    text-align: center;
-}

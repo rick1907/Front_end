@@ -1,6 +1,4 @@
-html{
-    scroll-behavior: smooth;
-}
+
 
 :target {
     scroll-margin-top: .8em;
@@ -13,7 +11,6 @@ html{
 }
 
 .trabalhos__tituloPrincipal{
-    font-family: 'Poppins', Arial, Helvetica, sans-serif;
     color: white;
     padding: 130px 0 40px 0;
     font-weight: bold;
@@ -22,7 +19,6 @@ html{
 .trabalhos__titulo{
     
     background-color: #1611118c;
-    font-family: 'Poppins', Arial, Helvetica, sans-serif;
     color: white;
     font-size: 20px;
     margin-top: 10px;
