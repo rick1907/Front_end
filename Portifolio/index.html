@@ -15,38 +15,50 @@
     <link rel="stylesheet" href="./assets/css/trabalhos/trabalhos.css">
     <link rel="stylesheet" href="./assets/css/trabalhos/trabalhos-grid.css">
     <link rel="stylesheet" href="./assets/css/trabalhos/trabalhos-destaque.css">
+    <link rel="stylesheet" href="./assets/css/contato/contato.css">
+    <link rel="stylesheet" href="./assets/css/contato/contato-menu.css">
 </head>
 <body>
     <header class="cabecalho">
         <nav class="menu">
             <ul class="menu__lista">
                 <li>
-                    <a>Sobre</a>
-                    <a>Trabalhos</a>
+                    <a href="#bemVindo-sections">Sobre</a>
+                    <a href="#trabalhos-sections">Trabalhos</a>
                     <a>Contato</a>
                 </li>
             </ul>
         </nav>
     </header>
-    <section class="bem-vindo">
+    <section id="bemVindo-sections" class="bem-vindo">
         <h1>Olá, sou o Ricardo</h1>
         <p>{ desenvolvedor Front end }</p>
     </section>
     <section class="trabalhos">
-        <h2>Esses sao alguns dos meus trabalhos</h2>
+            <div class="trabalhos__tituloPrincipal">
+                <h2>Esses sao alguns dos meus trabalhos</h2>
+            </div>
         <section class="trabalhos_grid">
-
-            <div class="trabalhos_destaque">
-                <h3 class="trabalhos__titulo">Trabalho 1</h3>
-            </div>
-            <div class="trabalhos_destaque">
+            <a id="trabalhos-sections" href="https://github.com/rick1907/Front_end/tree/master/Portifolio" class="trabalhos_destaque">
+                <h3 class="trabalhos__titulo">Meu Portifolio</h3>
+            </a>
+            <a class="trabalhos_destaque">
                 <h3 class="trabalhos__titulo">Trabalho 2</h3>
-            </div>
-            <div class="trabalhos_destaque">
+            </a>
+            <a class="trabalhos_destaque">
                 <h3 class="trabalhos__titulo">Trabalho 3</h3>
-            </div>
+            </a>
         </section>      
+    </section>
+    <section class="contato">
+        <h3>Vamos trabalhar juntos?</h3>
+        <div class="contato__menu">
+            <a>linkedin</a>
+            <a>github</a>
+            <a>telefone</a>
+        </div>
         
+
 
     </section>
     

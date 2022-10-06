@@ -1,8 +1,11 @@
 .trabalhos_grid{
     display: grid;
+    flex-wrap: wrap;
+    grid-gap:1rem;
     height: 70vh;
-    grid-area: "trabalhos";
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: center;
+    flex-direction: column;
     
 }
 
