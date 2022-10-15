@@ -4,28 +4,10 @@
     border: solid;
     border-width: 1px;
     border-color: black;
-}
-
-.trabalhos_destaque:nth-child(1){
     background-image: url(../../imagens/portifolio.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-   
-    
-   
-}
-
-.trabalhos_destaque:nth-child(2){
-    background-color: yellow;
-   
-   
-    
-}
-
-.trabalhos_destaque:nth-child(3){
-    background-color: red;
-    
-  
-    
+    width: 300px;
+    height: 300px;
 }

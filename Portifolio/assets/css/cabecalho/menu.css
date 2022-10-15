@@ -1,0 +1,13 @@
+
+
+.menu{
+    background-color: rgba(7, 18, 88, 0.977);
+    border-bottom: solid;
+    display: flex;
+    height: 100px;
+    justify-content: flex-end;
+    position: fixed;
+    width: 100%;
+}
+
+

@@ -1,0 +1,7 @@
+.trabalhos_grid{
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    grid-area: trabalhos_grid;
+
+}

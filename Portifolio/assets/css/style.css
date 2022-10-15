@@ -5,3 +5,9 @@ html{
 body{
     font-family: 'Poppins', Arial, Helvetica, sans-serif;
 }
+
+/*
+:target {
+    scroll-margin-top: .8em;
+  }
+  */
