@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    background-color: bisque;
+    height: 6rem;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.container li{
+    padding: 1rem;
+    margin-right: 3px;
+    
+}
+
+.iten1{
+    background-color: aqua;
+    flex-grow: 1;
+}
+
+.iten2{
+    background-color: aquamarine;
+    flex-grow: 2;
+}
+
+.iten3{
+    background-color: blueviolet;
+    flex-grow: 3;
+}
+
+.iten4{
+    background-color: blue;
+    flex-grow: 4;
+}
+
