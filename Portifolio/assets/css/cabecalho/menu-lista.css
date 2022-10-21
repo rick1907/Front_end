@@ -17,7 +17,9 @@
 }
 
 .menu__lista a:hover{
-    background-color: rgb(70, 69, 69);
+    /*background-color: rgb(70, 69, 69);*/
     font-size: 1.8rem;
     padding: 34px;
+    background-color: rgb(102, 145, 213);
+    
 }

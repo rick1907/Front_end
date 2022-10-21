@@ -1,0 +1,10 @@
+.menu__contato{
+    cursor: pointer;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.menu__contato a:hover{
+    font-size: 2.5rem;
+}

@@ -1,7 +1,8 @@
 .trabalhos_grid{
+    padding: 0 0 0 92px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
     height: 50%;
-    display: flex;
     justify-content: space-evenly;
-    grid-area: trabalhos_grid;
-
 }
