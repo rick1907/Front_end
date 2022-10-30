@@ -1,8 +1,8 @@
 
 
 .menu{
-    background-color: rgba(7, 18, 88, 0.977);
-    border-bottom: solid;
+    background-color: #343f83;
+    border-bottom: 1px solid red;
     display: flex;
     height: 100px;
     justify-content: flex-end;

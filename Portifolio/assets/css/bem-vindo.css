@@ -16,7 +16,7 @@ h1{
     -webkit-text-stroke: #080808 3px;
 }
 
-p{
+.bem-vindo p{
     color: rgba(7, 18, 88, 0.977);
     margin-top: 16px;
     font-size: 2.5rem;
